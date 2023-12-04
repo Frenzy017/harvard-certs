@@ -1,5 +1,5 @@
 # harvard-certs
-This repository holds all completed by me Harvard ManageMentor® Certifications
+This repository holds all completed by me Harvard ManageMentor® Certificates
 
 
 
